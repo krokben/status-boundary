@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# StatusBoundary
+
+A boundary that renders status or error messages if fetches fail.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
